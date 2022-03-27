@@ -1,6 +1,6 @@
 using System;
 
-namespace WebAPP.Models.ViewModels
+namespace WebAPP.Models
 {
     public class ErrorViewModel
     {
