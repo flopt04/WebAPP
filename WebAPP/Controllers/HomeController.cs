@@ -17,7 +17,8 @@ namespace WebAPP.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "MS-Sustainable Materials is a company dedicated to the consumer!";
+            ViewData["Materials"] = "We use 100% renewable and high quality materials";
 
             return View();
         }
